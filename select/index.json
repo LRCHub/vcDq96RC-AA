@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "chills?",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-02T11:16:46.023194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chills",
+      "artist": "James Barker Band",
+      "has_synced": true,
+      "path": "select/01_Chills_James_Barker_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chills Me to the Bone",
+      "artist": "Tricky feat. Marta",
+      "has_synced": true,
+      "path": "select/02_Chills_Me_to_the_Bone_Tricky_feat._Marta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Gives Me Chills",
+      "artist": "Game Theory",
+      "has_synced": false,
+      "path": "select/03_It_Gives_Me_Chills_Game_Theory.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chills",
+      "artist": "Papercuts",
+      "has_synced": false,
+      "path": "select/04_Chills_Papercuts.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Chills",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/05_The_Chills_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chills",
+      "artist": "Ladyhawke",
+      "has_synced": true,
+      "path": "select/06_Chills_Ladyhawke.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chills Me To The Bone",
+      "artist": "Tricky Marta",
+      "has_synced": true,
+      "path": "select/07_Chills_Me_To_The_Bone_Tricky_Marta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chills and Fever",
+      "artist": "Ronnie Love",
+      "has_synced": false,
+      "path": "select/08_Chills_and_Fever_Ronnie_Love.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chills And Fever",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/09_Chills_And_Fever_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "02 - Chills And Fever",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/10_02_-_Chills_And_Fever_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "chills?",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/11_chills_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "chills?",
+      "artist": "秋山黄色",
+      "has_synced": true,
+      "path": "select/12_chills_秋山黄色.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Chills",
+      "artist": "Blue October",
+      "has_synced": false,
+      "path": "select/13_The_Chills_Blue_October.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cold Chills",
+      "artist": "Kix",
+      "has_synced": false,
+      "path": "select/14_Cold_Chills_Kix.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chills (LA Hills)",
+      "artist": "Tiësto feat. A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/15_Chills_(LA_Hills)_Tiësto_feat._A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "chills?",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_chills_秋山黄色.txt"
+    }
+  ]
+}
